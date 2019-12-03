@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf1c58c6-5ab9-4f89-a47c-c8b72f2d7f21" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1USz8uK6YGCqCQo4zfhlULWS5Lf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/java-animal-project-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.morse.java.Main" />
+      <module name="morsecode.project.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.morse.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf1c58c6-5ab9-4f89-a47c-c8b72f2d7f21" name="Default Changelist" comment="" />
+      <created>1575364628809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575364628809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="258" y="76" width="847" height="677" key="#Project_Structure" timestamp="1575382096212">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="258" y="76" width="847" height="677" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1575382096212" />
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575364671949">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="141" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1575364671949" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575382039565">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1575382039565" />
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom" timestamp="1575385209294">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1575385209294" />
+    <state width="1320" height="175" key="GridCell.Tab.0.center" timestamp="1575385209294">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1575385209294" />
+    <state width="1320" height="175" key="GridCell.Tab.0.left" timestamp="1575385209293">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1575385209293" />
+    <state width="1320" height="175" key="GridCell.Tab.0.right" timestamp="1575385209294">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="175" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1575385209294" />
+    <state width="1320" height="170" key="GridCell.Tab.1.bottom" timestamp="1575383219820">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="170" key="GridCell.Tab.1.bottom/0.27.1366.741@0.27.1366.741" timestamp="1575383219820" />
+    <state width="1320" height="170" key="GridCell.Tab.1.center" timestamp="1575383219819">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="170" key="GridCell.Tab.1.center/0.27.1366.741@0.27.1366.741" timestamp="1575383219819" />
+    <state width="1320" height="170" key="GridCell.Tab.1.left" timestamp="1575383219819">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="170" key="GridCell.Tab.1.left/0.27.1366.741@0.27.1366.741" timestamp="1575383219819" />
+    <state width="1320" height="170" key="GridCell.Tab.1.right" timestamp="1575383219819">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="170" key="GridCell.Tab.1.right/0.27.1366.741@0.27.1366.741" timestamp="1575383219819" />
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1575371452027">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="339" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1575371452027" />
+    <state x="423" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1575385281420">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="423" y="101" width="509" height="590" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.27.1366.741@0.27.1366.741" timestamp="1575385281420" />
+  </component>
+</project>
